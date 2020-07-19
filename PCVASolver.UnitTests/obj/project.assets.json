@@ -1229,11 +1229,24 @@
       "PCVASolver/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PCVASolver.Interface": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/PCVASolver.dll": {}
         },
         "runtime": {
           "bin/placeholder/PCVASolver.dll": {}
+        }
+      },
+      "PCVASolver.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PCVASolver.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PCVASolver.Interface.dll": {}
         }
       }
     }
@@ -4633,6 +4646,11 @@
       "type": "project",
       "path": "../PCVASolver/PCVASolver.csproj",
       "msbuildProject": "../PCVASolver/PCVASolver.csproj"
+    },
+    "PCVASolver.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PCVASolver.Interface/PCVASolver.Interface.csproj",
+      "msbuildProject": "../PCVASolver.Interface/PCVASolver.Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {

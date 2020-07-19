@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sEeFKNtgSCEOTH8+3tIzyRO/Q+hriMUZU/ftp7/4z+GQG9vgwaqS0icPy3WJJF1yh/5hIisZakQrKFlqfD2sQQ==",
+  "dgSpecHash": "aeGOf4RN37nxLALqhxBnU+3rhdB8ZDzdQjlrttxr0CMbRnyXETUk4DqL7vhg4vHLImorqOsYnRKUoyjeV5No5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\UnitTests\\IOPort.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -4633,9 +4633,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\UnitTests\\UnitTests.csproj",
-      "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\UnitTests\\IOPort.UnitTests.csproj",
+      "projectName": "IOPort.UnitTests",
+      "projectPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\UnitTests\\IOPort.UnitTests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",

@@ -96,3 +96,5 @@ C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.UnitTests\obj\Debug\netcoreap
 C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.UnitTests\obj\Debug\netcoreapp3.1\PCVASolver.UnitTests.dll
 C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.UnitTests\obj\Debug\netcoreapp3.1\PCVASolver.UnitTests.pdb
 C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.UnitTests\obj\Debug\netcoreapp3.1\PCVASolver.UnitTests.genruntimeconfig.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.UnitTests\bin\Debug\netcoreapp3.1\PCVASolver.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.UnitTests\bin\Debug\netcoreapp3.1\PCVASolver.Interface.pdb

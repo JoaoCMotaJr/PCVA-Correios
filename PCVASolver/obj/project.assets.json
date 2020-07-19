@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "PCVASolver.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PCVASolver.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PCVASolver.Interface.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PCVASolver.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PCVASolver.Interface/PCVASolver.Interface.csproj",
+      "msbuildProject": "../PCVASolver.Interface/PCVASolver.Interface.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "PCVASolver.Interface >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\PCVASolver.Interface\\PCVASolver.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\PCVASolver.Interface\\PCVASolver.Interface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

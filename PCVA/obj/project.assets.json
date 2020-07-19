@@ -1,11 +1,84 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "IOPort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "IOPort.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IOPort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IOPort.dll": {}
+        }
+      },
+      "IOPort.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/IOPort.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IOPort.Interface.dll": {}
+        }
+      },
+      "PCVASolver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PCVASolver.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PCVASolver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PCVASolver.dll": {}
+        }
+      },
+      "PCVASolver.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PCVASolver.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PCVASolver.Interface.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "IOPort/1.0.0": {
+      "type": "project",
+      "path": "../IOPort/IOPort.csproj",
+      "msbuildProject": "../IOPort/IOPort.csproj"
+    },
+    "IOPort.Interface/1.0.0": {
+      "type": "project",
+      "path": "../IOPort.Interface/IOPort.Interface.csproj",
+      "msbuildProject": "../IOPort.Interface/IOPort.Interface.csproj"
+    },
+    "PCVASolver/1.0.0": {
+      "type": "project",
+      "path": "../PCVASolver/PCVASolver.csproj",
+      "msbuildProject": "../PCVASolver/PCVASolver.csproj"
+    },
+    "PCVASolver.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PCVASolver.Interface/PCVASolver.Interface.csproj",
+      "msbuildProject": "../PCVASolver.Interface/PCVASolver.Interface.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "IOPort >= 1.0.0",
+      "IOPort.Interface >= 1.0.0",
+      "PCVASolver >= 1.0.0",
+      "PCVASolver.Interface >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {}
@@ -33,7 +106,20 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\IOPort.Interface\\IOPort.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\IOPort.Interface\\IOPort.Interface.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\IOPort\\IOPort.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\IOPort\\IOPort.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\PCVASolver.Interface\\PCVASolver.Interface.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\PCVASolver.Interface\\PCVASolver.Interface.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\PCVASolver\\PCVASolver.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\PCV\\PCVA-Correios\\PCVASolver\\PCVASolver.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

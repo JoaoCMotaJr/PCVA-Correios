@@ -7,3 +7,6 @@ C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Debug\netcoreapp3.1\PCVAS
 C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Debug\netcoreapp3.1\PCVASolver.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Debug\netcoreapp3.1\PCVASolver.dll
 C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Debug\netcoreapp3.1\PCVASolver.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\bin\Debug\netcoreapp3.1\PCVASolver.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\bin\Debug\netcoreapp3.1\PCVASolver.Interface.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Debug\netcoreapp3.1\PCVASolver.csproj.CopyComplete

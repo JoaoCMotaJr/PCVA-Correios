@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\bin\Debug\netcoreapp3.1\PCVASolver.Interface.deps.json
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\bin\Debug\netcoreapp3.1\PCVASolver.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\bin\Debug\netcoreapp3.1\PCVASolver.Interface.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\obj\Debug\netcoreapp3.1\PCVASolver.Interface.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\obj\Debug\netcoreapp3.1\PCVASolver.Interface.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\obj\Debug\netcoreapp3.1\PCVASolver.Interface.AssemblyInfo.cs
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\obj\Debug\netcoreapp3.1\PCVASolver.Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\obj\Debug\netcoreapp3.1\PCVASolver.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver.Interface\obj\Debug\netcoreapp3.1\PCVASolver.Interface.pdb

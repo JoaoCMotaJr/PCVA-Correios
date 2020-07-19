@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\bin\Release\netcoreapp3.1\PCVASolver.deps.json
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\bin\Release\netcoreapp3.1\PCVASolver.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\bin\Release\netcoreapp3.1\PCVASolver.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\bin\Release\netcoreapp3.1\PCVASolver.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\bin\Release\netcoreapp3.1\PCVASolver.Interface.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Release\netcoreapp3.1\PCVASolver.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Release\netcoreapp3.1\PCVASolver.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Release\netcoreapp3.1\PCVASolver.AssemblyInfo.cs
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Release\netcoreapp3.1\PCVASolver.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Release\netcoreapp3.1\PCVASolver.csproj.CopyComplete
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Release\netcoreapp3.1\PCVASolver.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVASolver\obj\Release\netcoreapp3.1\PCVASolver.pdb

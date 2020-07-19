@@ -6,6 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\IOPort.Interface\IOPort.Interface.csproj" />
+    <ProjectReference Include="..\IOPort\IOPort.csproj" />
+    <ProjectReference Include="..\PCVASolver.Interface\PCVASolver.Interface.csproj" />
+    <ProjectReference Include="..\PCVASolver\PCVASolver.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="Files\encomendas.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

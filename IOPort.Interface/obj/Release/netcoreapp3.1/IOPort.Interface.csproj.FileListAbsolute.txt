@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\bin\Release\netcoreapp3.1\IOPort.Interface.deps.json
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\bin\Release\netcoreapp3.1\IOPort.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\bin\Release\netcoreapp3.1\IOPort.Interface.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\obj\Release\netcoreapp3.1\IOPort.Interface.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\obj\Release\netcoreapp3.1\IOPort.Interface.AssemblyInfo.cs
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\obj\Release\netcoreapp3.1\IOPort.Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\obj\Release\netcoreapp3.1\IOPort.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort.Interface\obj\Release\netcoreapp3.1\IOPort.Interface.pdb

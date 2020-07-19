@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\bin\Debug\netcoreapp3.1\IOPort.deps.json
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\bin\Debug\netcoreapp3.1\IOPort.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\bin\Debug\netcoreapp3.1\IOPort.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\bin\Debug\netcoreapp3.1\IOPort.Interface.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\bin\Debug\netcoreapp3.1\IOPort.Interface.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\obj\Debug\netcoreapp3.1\IOPort.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\obj\Debug\netcoreapp3.1\IOPort.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\obj\Debug\netcoreapp3.1\IOPort.AssemblyInfo.cs
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\obj\Debug\netcoreapp3.1\IOPort.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\obj\Debug\netcoreapp3.1\IOPort.csproj.CopyComplete
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\obj\Debug\netcoreapp3.1\IOPort.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\IOPort\obj\Debug\netcoreapp3.1\IOPort.pdb
