@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\PCVA.exe
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\PCVA.deps.json
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\PCVA.runtimeconfig.json
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\PCVA.runtimeconfig.dev.json
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\PCVA.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\PCVA.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\obj\Debug\netcoreapp3.1\PCVA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\obj\Debug\netcoreapp3.1\PCVA.AssemblyInfo.cs
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\obj\Debug\netcoreapp3.1\PCVA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\obj\Debug\netcoreapp3.1\PCVA.dll
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\obj\Debug\netcoreapp3.1\PCVA.pdb
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\obj\Debug\netcoreapp3.1\PCVA.genruntimeconfig.cache
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\Files\encomendas.txt
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\bin\Debug\netcoreapp3.1\Files\trechos.txt
+C:\Users\user\Desktop\PCV\PCVA-Correios\PCVA\obj\Debug\netcoreapp3.1\PCVA.csprojAssemblyReference.cache
